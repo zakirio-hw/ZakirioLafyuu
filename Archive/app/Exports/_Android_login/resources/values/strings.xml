@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login strings -->
+
+	<string name="app_name">Screen</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="welcome_to_lafyuu_string">Welcome to Lafyuu</string>
+	<string name="sign_in_to_continue_string">Sign in to continue</string>
+	<string name="your_email_string">Your Email</string>
+	<string name="password_string">Password</string>
+	<string name="sign_in_string">Sign In</string>
+	<string name="or_string">OR</string>
+	<string name="login_with_google_string">Login with Google</string>
+	<string name="login_with_facebook_string">Login with facebook</string>
+	<string name="forgot_password__string">Forgot Password?</string>
+	<string name="don_t_have_a_account__register_string">Dont have a account? Register</string>
+	<string name="_9_41_string">9:41</string>
+</resources>

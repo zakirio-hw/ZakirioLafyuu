@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- login colors -->
+
+	<color name="colorPrimary">#008577</color>
+	<color name="colorPrimaryDark">#00574B</color>
+	<color name="colorAccent">#D81B60</color>
+	<color name="purple_200">#FFBB86FC</color>
+	<color name="purple_500">#FF6200EE</color>
+	<color name="purple_700">#FF3700B3</color>
+	<color name="teal_200">#FF03DAC5</color>
+	<color name="teal_700">#FF018786</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+
+	<color name="_bg__login_color">#FFFFFF</color>
+	<color name="rectangle_383_color">#40BFFF</color>
+	<color name="welcome_to_lafyuu_color">#223263</color>
+	<color name="sign_in_to_continue_color">#9098B1</color>
+	<color name="line_37_color">#EAEFFF</color>
+	<color name="home_indicator_color">#D1D6E7</color>
+</resources>

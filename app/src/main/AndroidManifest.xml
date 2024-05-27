@@ -15,7 +15,8 @@
         <activity
             android:name=".DashboardActivity"
             android:exported="false"
-            android:label="@string/title_activity_dashboard" />
+            android:label="@string/title_activity_dashboard"
+            android:theme="@style/Theme.ECommerceJava" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
